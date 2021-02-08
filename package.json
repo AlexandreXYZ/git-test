@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Essa é uma pasta feita porque o professor mandou",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreXYZ/git-test.git"
+  },
+  "author": "Alexandre Costa Belettini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreXYZ/git-test/issues"
+  },
+  "homepage": "https://github.com/AlexandreXYZ/git-test#readme"
+}
